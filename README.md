@@ -1,5 +1,6 @@
 #  Anomaly-Detection
 In this repo we explore different Anomaly detection algorithms and compare their performance using various metrics. 
+all the code is available in models.ipynb notebook. 
 ## 1). Autoencoder
 Autoencoder is a bottle-neck type neural network that learns a compressed representation of the data by projecting it
 down to a lower dimension.
