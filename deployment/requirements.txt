@@ -1,9 +1,8 @@
 pandas
 numpy
 scikit-learn
-seaborn
-tensorflow
 ipykernel
-matplotlib 
 imblearn
 joblib
+fastapi
+uvicorn
